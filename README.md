@@ -51,6 +51,8 @@ better view on desktop 80~67% thanks
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=2272f7&bar_color_cover=true"></a>
 </div>
 <br>
+　
+<br>
 <div align="center">
     <img width="1000" src="resources/images/blue_border.gif"/>
 </div>
