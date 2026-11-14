@@ -25,6 +25,7 @@ better view on desktop 80~67% thanks
 <div align="center">
     <img width="1000" src="resources/images/blue_border1.gif"/>
 </div>
+<br>
 <div align="center">
     <img width="320" src="resources/images/HTJZI_cbsAAY4o7.jpg" align="left" />
 </div>
