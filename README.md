@@ -43,5 +43,6 @@ better view on desktop 80~67% thanks
   </kbd>
     <img width="500" src="resources/images/MainUI_MirrorDungeon5_18.png" />
     <br>
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=2272f7&bar_color_cover=true">
+    <a href="https://open.spotify.com/playlist/14iwoBb0Q7J5PlCNjMZfHL">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=2272f7&bar_color_cover=true"></a>
 </div>
